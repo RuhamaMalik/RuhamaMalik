@@ -25,3 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=RuhamaMalik&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/RuhamaMalik.svg)](https://user-badge.committers.top/pakistan/RuhamaMalik)
+
