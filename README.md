@@ -6,7 +6,7 @@ Passionate about building scalable web applications, teaching the next generatio
 ---
 
 ## 🌟 About Me  
-- 🌱 Currently exploring **Web 3.0**  
+- 🎓 Currently focusing on my **academic studies** while continuing to grow as a developer.  
 - 👩‍🏫 **2+ years** as a Lead Trainer @ SMIT | Ex-Trainer @ Quaid-e-Azam Rangers College  
 - 💼 8+ months of professional experience as a Full Stack Developer @ Mayonity Networks  
 - 👯 Open to collaborate on **MERN stack** & **Open Source** projects  
