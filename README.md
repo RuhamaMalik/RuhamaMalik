@@ -7,7 +7,7 @@ Passionate about building scalable web applications, teaching the next generatio
 
 ## 🌟 About Me  
 - 🎓 Currently focusing on my **academic studies** while continuing to grow as a developer.  
-- 👩‍🏫 **2+ years** as a Lead Trainer @ SMIT | Ex-Trainer @ Quaid-e-Azam Rangers College  
+- 👩‍🏫 **3+ years** as a Lead Trainer @ SMIT | Ex-Trainer @ Quaid-e-Azam Rangers College  
 - 💼 Transforming ideas into functional products as a Full Stack Developer.
 - 👯 Open to collaborate on **MERN stack** & **Open Source** projects  
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, MongoDB,MYSQL**  
